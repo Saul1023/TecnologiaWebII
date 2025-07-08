@@ -1,6 +1,7 @@
 /*
 Modificadores de acceso
     publico-> Visible para todos
+                --- NO se debe usar para las propiedades, las propiedades deben ser private
     private-> Visible solo dentro de la clase
     protected-> Private mas herencia
 */
